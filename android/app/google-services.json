@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080739403254",
+    "project_id": "authandroid-a158a",
+    "storage_bucket": "authandroid-a158a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080739403254:android:308b078c830a715940a3d7",
+        "android_client_info": {
+          "package_name": "com.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK__y87CAloBul1CfghhW3OQyJssr1krI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
